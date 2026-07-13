@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 333,
+    "width": 1999,
+    "height": 2666,
+    "isRotated": false,
+    "originalWidth": 2666,
+    "originalHeight": 2666
+  },
+  "imagePath": "image-targets/SECUNDARIAS_luminance.png",
+  "metadata": null,
+  "name": "SECUNDARIAS",
+  "resources": {
+    "originalImage": "SECUNDARIAS_original.png",
+    "croppedImage": "SECUNDARIAS_cropped.png",
+    "thumbnailImage": "SECUNDARIAS_thumbnail.png",
+    "luminanceImage": "SECUNDARIAS_luminance.png"
+  },
+  "created": 1783911795816,
+  "updated": 1783911795816
+}
