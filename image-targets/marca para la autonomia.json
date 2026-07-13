@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 333,
+    "width": 1999,
+    "height": 2666,
+    "isRotated": false,
+    "originalWidth": 2666,
+    "originalHeight": 2666
+  },
+  "imagePath": "image-targets/marca para la autonomia_luminance.png",
+  "metadata": null,
+  "name": "marca para la autonomia",
+  "resources": {
+    "originalImage": "marca para la autonomia_original.png",
+    "croppedImage": "marca para la autonomia_cropped.png",
+    "thumbnailImage": "marca para la autonomia_thumbnail.png",
+    "luminanceImage": "marca para la autonomia_luminance.png"
+  },
+  "created": 1783911768608,
+  "updated": 1783911768608
+}
