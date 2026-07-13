@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 333,
+    "width": 1999,
+    "height": 2666,
+    "isRotated": false,
+    "originalWidth": 2666,
+    "originalHeight": 2666
+  },
+  "imagePath": "image-targets/dia del abuelo_luminance.png",
+  "metadata": null,
+  "name": "dia del abuelo",
+  "resources": {
+    "originalImage": "dia del abuelo_original.png",
+    "croppedImage": "dia del abuelo_cropped.png",
+    "thumbnailImage": "dia del abuelo_thumbnail.png",
+    "luminanceImage": "dia del abuelo_luminance.png"
+  },
+  "created": 1783911662930,
+  "updated": 1783911662930
+}
