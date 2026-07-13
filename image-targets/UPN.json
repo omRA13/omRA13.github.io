@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 333,
+    "width": 1999,
+    "height": 2666,
+    "isRotated": false,
+    "originalWidth": 2666,
+    "originalHeight": 2666
+  },
+  "imagePath": "image-targets/UPN_luminance.png",
+  "metadata": null,
+  "name": "UPN",
+  "resources": {
+    "originalImage": "UPN_original.png",
+    "croppedImage": "UPN_cropped.png",
+    "thumbnailImage": "UPN_thumbnail.png",
+    "luminanceImage": "UPN_luminance.png"
+  },
+  "created": 1783911863459,
+  "updated": 1783911863459
+}
