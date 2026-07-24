@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 290,
+    "width": 1740,
+    "height": 2320,
+    "isRotated": false,
+    "originalWidth": 2320,
+    "originalHeight": 2320
+  },
+  "imagePath": "image-targets/QR web mural_luminance.png",
+  "metadata": null,
+  "name": "QR web mural",
+  "resources": {
+    "originalImage": "QR web mural_original.png",
+    "croppedImage": "QR web mural_cropped.png",
+    "thumbnailImage": "QR web mural_thumbnail.png",
+    "luminanceImage": "QR web mural_luminance.png"
+  },
+  "created": 1784865455625,
+  "updated": 1784865455625
+}
